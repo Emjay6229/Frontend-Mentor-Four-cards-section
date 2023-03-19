@@ -18,10 +18,6 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-### Screenshot
-
-![Design preview for the Four card feature section coding challenge](Screenshot-Four-Card-Feature-Section.jpg)
-
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/Emjay6229/Frontend-Mentor-Four-cards-section/)
