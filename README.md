@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://github.com/Emjay6229/Frontend-Mentor-Four-cards-section/)
+- Live Site URL: [live site URL here](https://emjay6229.github.io/Frontend-Mentor-Four-cards-section/)
 
 ### Built with
 
