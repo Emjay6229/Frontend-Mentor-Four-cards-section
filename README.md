@@ -6,7 +6,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-  - [Links](#links))
+  - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
