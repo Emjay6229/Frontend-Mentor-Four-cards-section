@@ -40,6 +40,6 @@ I will need to hone my CSS layout and responsiveness skills. This project is yet
 
 ## Author
 
-- Website - [Joshua Onwuemene](https://www.github/Emjay6229)
+- Website - [Joshua Onwuemene](https://www.github.com/Emjay6229)
 - Frontend Mentor - [@Emjay6229](https://www.frontendmentor.io/profile/Emjay6229)
 - Twitter - [@emjay_dev](https://www.twitter.com/emjay_dev)
