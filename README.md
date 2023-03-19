@@ -20,7 +20,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Design preview for the Four card feature section coding challenge](./Screenshot 2023-03-19 at 16-07-58 Four Card Feature Section Frontend Mentors.jpg)
+![Design preview for the Four card feature section coding challenge]("./Screenshot 2023-03-19 at 16-07-58 Four Card Feature Section Frontend Mentors.jpg")
 
 ### Links
 
